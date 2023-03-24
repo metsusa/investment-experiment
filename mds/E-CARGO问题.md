@@ -1,1 +1,0 @@
-看MGRA、RBC的group定义，看E-CARGO如何定义阶级概念。
